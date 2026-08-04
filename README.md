@@ -12,4 +12,6 @@ This repository documents my Python learning journey from beginner to advanced.
 To build strong Python programming skills for software engineering interviews and projects.
 
 ## Author
-Uhasri Kondasani
+Uhasri Kondasani 
+## Language
+Python
