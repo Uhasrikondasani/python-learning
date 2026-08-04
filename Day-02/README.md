@@ -68,7 +68,6 @@ Day-02/
 ## Status
 
 🚧 In Progress
-git
 ---
 
 ## Author
