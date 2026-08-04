@@ -68,9 +68,7 @@ Day-02/
 ## Status
 
 🚧 In Progress
-
-> Update the status to **✅ Completed** after finishing all 10 programs and pushing them to GitHub.
-
+git
 ---
 
 ## Author
