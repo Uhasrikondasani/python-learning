@@ -68,7 +68,7 @@ Day-02/
 ## Status
 
 🚧 In Progress
-6/10 programs completed
+8/10 programs completed
 ---
 
 ## Author
