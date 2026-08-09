@@ -67,7 +67,7 @@ Day-02/
 
 ## Status
 
-🚧 In Progress
+🚧 completed
 10/10 programs completed
 ---
 
