@@ -1,5 +1,5 @@
 num_1 = float(input("Enter your first number: "))
-num_2 = float(input("Enter your seconnd number: "))
+num_2 = float(input("Enter your second number: "))
 add = num_1 + num_2
 sub = num_1 - num_2
 mul = num_1 * num_2
